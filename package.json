@@ -1,0 +1,12 @@
+{
+	"name":"WebChat",
+	"version":"0.0.1",
+	"description:":"learning real time with node js",
+	"dependencies":{
+		"socket.io":"latest",
+		"express": "latest",
+		"jade":"latest"
+	},
+	"author": "Renan Oliveira"
+
+}
